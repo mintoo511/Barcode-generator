@@ -1,0 +1,9 @@
+c:\users\sony\documents\visual studio 2012\Projects\barcode\barcode\bin\Debug\barcode.exe.config
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.csprojResolveAssemblyReference.cache
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.Properties.Resources.resources
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.csproj.GenerateResource.Cache
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\bin\Debug\barcode.exe
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\bin\Debug\barcode.pdb
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.exe
+C:\Users\sony\documents\visual studio 2012\Projects\barcode\barcode\obj\Debug\barcode.pdb
